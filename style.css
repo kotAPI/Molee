@@ -105,6 +105,7 @@ background-image: url('image/arrows-fire-1-optimized.png');
 }
 #fore-foreground {
 background-image: url('image/arrows-fire-1-optimized.png');
+
 	-webkit-transform: rotate(-3deg);
 	-moz-transform: rotate(-3deg);
 	-ms-transform: rotate(-3deg);
