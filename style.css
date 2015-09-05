@@ -100,6 +100,13 @@ a{
 background-image: url('image/bg-1-optimized.jpg')  ;
 background-size: cover;
 }
+#fore-fore-fore-foreground{
+	background-image: url('image/gods.png');
+	height: 660px;
+    width: 600px;
+    position:relative;
+   
+}
 #foreground {
 background-image: url('image/arrows-fire-1-optimized.png');
 }
@@ -111,15 +118,12 @@ background-image: url('image/arrows-fire-1-optimized.png');
 	-ms-transform: rotate(-3deg);
 	-o-transform: rotate(-3deg);
 	transform: rotate(-3deg);
-
 }
 #fore-fore-foreground {
-background-image: url('image/arrows-2.png');
+	background-image: url('image/arrows-2.png');
 
 }
-#fore-fore-fore-foreground{
 
-}
 
 .mouse-bg {
 	left: 0;
